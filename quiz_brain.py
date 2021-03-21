@@ -1,3 +1,6 @@
+from art import logo
+print(logo)
+
 class QuizBrain:
 
     def __init__(self, q_list):
